@@ -1,0 +1,1 @@
+Using Django MPTT technique to for storing heirarchial data, this helps make retrieval of data more efficient
